@@ -1,0 +1,19 @@
+{
+  "name": "http-api-assignment-ii",
+  "version": "1.0.0",
+  "description": "HTTP API Assignment 2",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sb8869/http-api-assignment-ii.git"
+  },
+  "author": "Suraj Bonthu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sb8869/http-api-assignment-ii/issues"
+  },
+  "homepage": "https://github.com/sb8869/http-api-assignment-ii#readme"
+}
